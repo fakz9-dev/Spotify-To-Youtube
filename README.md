@@ -32,4 +32,11 @@ I used the following libraries:<br>
   - <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup (For the YouTube alternative search)</a><br><br>
 
 # Why did you make it?
-Studying purpouses, and it might actually be useful to someone. I think <a href="http://discord.app">Discord</a> bots could use that to queue songs and stuff. 
+Studying purpouses, and it might actually be useful to someone. I think <a href="http://discord.app">Discord</a> bots could use that to queue songs and stuff.<br>
+
+# Which additions i have added and changed
+1 - Ability to provide any spotify data (track, album, not only playlist like in original repository)
+2 - Ability to provide data from console arguments by typing spotify link as agrument after "-t"
+3 - Was fully rewrited searchYoutubeAlternative function without using Beautiful Soup
+4 - Was added an exception to searchYoutube function, that automatically calls searchYoutubeAlternative
+5 - Now config loads from folder, where located .py file (not from execution folder like in original repository)
