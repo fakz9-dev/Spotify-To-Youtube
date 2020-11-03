@@ -40,3 +40,5 @@ Studying purpouses, and it might actually be useful to someone. I think <a href=
 3 - Was fully rewrited searchYoutubeAlternative function without using Beautiful Soup<br>
 4 - Was added an exception to searchYoutube function, that automatically calls searchYoutubeAlternative<br>
 5 - Now config loads from folder, where located .py file (not from execution folder like in original repository)<br>
+<br>
+p.s. sorry for my English, im bad in it
