@@ -35,8 +35,8 @@ I used the following libraries:<br>
 Studying purpouses, and it might actually be useful to someone. I think <a href="http://discord.app">Discord</a> bots could use that to queue songs and stuff.<br>
 
 # Which additions i have added and changed
-1 - Ability to provide any spotify data (track, album, not only playlist like in original repository)
-2 - Ability to provide data from console arguments by typing spotify link as agrument after "-t"
-3 - Was fully rewrited searchYoutubeAlternative function without using Beautiful Soup
-4 - Was added an exception to searchYoutube function, that automatically calls searchYoutubeAlternative
-5 - Now config loads from folder, where located .py file (not from execution folder like in original repository)
+1 - Ability to provide any spotify data (track, album, not only playlist like in original repository)<br>
+2 - Ability to provide data from console arguments by typing spotify link as agrument after "-t"<br>
+3 - Was fully rewrited searchYoutubeAlternative function without using Beautiful Soup<br>
+4 - Was added an exception to searchYoutube function, that automatically calls searchYoutubeAlternative<br>
+5 - Now config loads from folder, where located .py file (not from execution folder like in original repository)<br>
